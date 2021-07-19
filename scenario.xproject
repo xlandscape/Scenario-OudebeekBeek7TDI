@@ -7,19 +7,19 @@
     <Description>2km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
         <Version number="3.1.210128" date="2021-01-28">
-            <Change author="pfsbv">Updated landscape scenario to version 1.1.210128</Change>
+            <Change author="sascha">Updated landscape scenario to version 1.1.210128</Change>
         </Version>
         <Version number="3.3.201229" date="2020-12-29">
-            <Change author="pfsbv">Updated landscape scenario to version 1.0.201229</Change>
+            <Change author="sascha">Updated landscape scenario to version 1.0.201229</Change>
         </Version>
         <Version number="3.2.201209" date="2020-12-07">
-            <Fix author="pfsbv">Replaced broken species parameters by version 2.0.19</Fix>
+            <Fix author="sascha">Replaced broken species parameters by version 2.0.19</Fix>
         </Version>
         <Version number="3.1.201207" date="2020-12-07">
-            <Fix author="pfsbv">Metadata of previous version (inconsistencies in versions)</Fix>
+            <Fix author="sascha">Metadata of previous version (inconsistencies in versions)</Fix>
         </Version>
         <Version number="3.0" date="2020-11-18">
-            <Change author="eturj">new hydrology and hydrography</Change>
+            <Change author="Sebastian">new hydrology and hydrography</Change>
         </Version>
     </Changelog>
     <Content>
@@ -28,20 +28,13 @@
         <Item name="Hydrology"
               target="hydro/hydro_reaches.h5"
               version="oudebeek_beek7-V-Ki-1.0-18112020"
-              doc="
-              doc\summary.csv;
-              doc\statistics.csv;
-              doc\statistics\statistics_shp.shp;
-              doc\pattern_depth.png;
-              doc\pattern_rtime.png;
-              doc\pattern_velocity.png;
-              doc\pattern_wwidth.png"/>
+              doc="hydro/doc"/>
         <Item name="Catchment" target="hydro/CatchmentList.csv" version="oudebeek_beek7-V-Ki-1.0-18112020"/>
-        <Item name="Timeseries" target="hydro/Timeseries" version="oudebeek_beek7-V-Ki-1.0-18112020"/>
-        <Item name="Map" target="map.xml" version="2.0.1"/>
-        <Item name="SiteInformation" target="site_niers_peutenweg.txt" version="2.0.10"/>
-        <Item name="SpeciesParameters" target="spec.xml" version="2.0.19"/>
-        <Item name="WaterTemperature" target="temp_Kornelimuenster.txt" version="2.0.10"/>
-        <Item name="Biomass" target="streamcom/biomass.txt" version="2.0.19"/>
+        <Item name="TimeSeries" target="hydro/TimeSeries" version="oudebeek_beek7-V-Ki-1.0-18112020"/>
+        <Item name="Map" target="stream_com/map.xml" version="2.0.1"/>
+        <Item name="SiteInformation" target="stream_com/site_niers_peutenweg.txt" version="2.0.10"/>
+        <Item name="SpeciesParameters" target="stream_com/spec.xml" version="2.0.19"/>
+        <Item name="WaterTemperature" target="stream_com/temp_Kornelimuenster.txt" version="2.0.10"/>
+        <Item name="Biomass" target="stream_com/biomass.txt" version="2.0.19"/>
     </Content>
 </Project>
