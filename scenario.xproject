@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.4.210128</Version>
+    <Version>3.5</Version>
     <SupportedRuntimeVersions>
         <Version number="1.4.5"/>
     </SupportedRuntimeVersions>
     <Description>2km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
-        <Version number="3.1.210128" date="2021-01-28">
+        <Version number="3.5" date="2021-01-28">
+            <Change author="sascha">Rearranged scenario structure</Change>
+            <Change author="sascha">Spellings</Change>
+        </Version>
+        <Version number="3.4.210128" date="2021-01-28">
             <Change author="sascha">Updated landscape scenario to version 1.1.210128</Change>
         </Version>
         <Version number="3.3.201229" date="2020-12-29">
