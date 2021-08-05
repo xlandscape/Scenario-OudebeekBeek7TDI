@@ -4,10 +4,10 @@ Baetis rhodani	300	0.5
 Dikerogammarus villosus	300	0.5
 Ecdyonurus dispar	300	0.5
 Epeorus assimilis	300	0.5
-Gammarus fossarum	300	0.5
+Gammarus fossarum	5000	0.5
 Gammarus pulex	300	0.5
 Gammarus roeselii	300	0.5
-Habrophlebia lauta	300	0.5
+Habrophlebia lauta	500	0.5
 Lymnaea stagnalis	300	0.5
 Planorbis planorbis	300	0.5
 Potamopyrgus antipodarum	300	0.5
