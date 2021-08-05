@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.5</Version>
+    <Version>3.6</Version>
     <SupportedRuntimeVersions>
-        <Version number="1.4.5"/>
+        <Version number="1.5.4"/>
     </SupportedRuntimeVersions>
     <Description>2km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.6" date="2021-08-05">
+            <Change author="sascha">Updated biomass parameters for StreamCom to version 2020.11.27</Change>
+        </Version>
         <Version number="3.5" date="2021-01-28">
             <Change author="sascha">Rearranged scenario structure</Change>
             <Change author="sascha">Spellings</Change>
@@ -39,6 +42,6 @@
         <Item name="SiteInformation" target="stream_com/site_niers_peutenweg.txt" version="2.0.10"/>
         <Item name="SpeciesParameters" target="stream_com/spec.xml" version="2.0.19"/>
         <Item name="WaterTemperature" target="stream_com/temp_Kornelimuenster.txt" version="2.0.10"/>
-        <Item name="Biomass" target="stream_com/biomass.txt" version="2.0.19"/>
+        <Item name="Biomass" target="stream_com/biomass.txt" version="2020.11.27"/>
     </Content>
 </Project>
