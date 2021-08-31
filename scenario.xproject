@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.6</Version>
+    <Version>3.7</Version>
     <SupportedRuntimeVersions>
         <Version variant="xAquaticRisk" number="2.31"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.7" date="2021-08-31">
+            <Addition author="sascha">Base documentation</Addition>
+        </Version>
         <Version number="3.6" date="2021-08-05">
             <Change author="sascha">Updated biomass parameters for StreamCom to version 2020.11.27</Change>
         </Version>
