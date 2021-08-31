@@ -2,6 +2,15 @@
 This list contains all additions, changes and fixes for the scenario.
 It was automatically created on 2021-08-31
 
+## [3.7] - 2021-08-31
+### Added
+- Base documentation
+
+###Changed
+
+###Fixed
+
+
 ## [3.6] - 2021-08-05
 ### Added
 
