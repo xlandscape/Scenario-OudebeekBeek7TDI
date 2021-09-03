@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.7</Version>
+    <Version>3.8</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.31"/>
+        <Version variant="xAquaticRisk" number="2.34"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.8" date="2021-09-03">
+            <Change author="sascha">
+                Updated landscape scenario to version 1.2 (fitting metadata to Landscape Model core version 1.6.1)
+            </Change>
+        </Version>
         <Version number="3.7" date="2021-08-31">
             <Addition author="sascha">Base documentation</Addition>
         </Version>
@@ -33,7 +38,7 @@
         </Version>
     </Changelog>
     <Content>
-        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.1.210128"/>
+        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.2"/>
         <Item name="Temperature" target="weather/mars25_temperature.csv" version="3"/>
         <Item name="Hydrology"
               target="hydro/hydro_reaches.h5"
