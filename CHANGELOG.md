@@ -1,6 +1,17 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-08-31
+It was automatically created on 2021-09-03
+
+## [3.8] - 2021-09-03
+### Added
+
+###Changed
+- 
+                Updated landscape scenario to version 1.2 (fitting metadata to Landscape Model core version 1.6.1)
+            
+
+###Fixed
+
 
 ## [3.7] - 2021-08-31
 ### Added
