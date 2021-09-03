@@ -33,7 +33,7 @@
         </Version>
     </Changelog>
     <Content>
-        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.1.210128"/>
+        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.2"/>
         <Item name="Temperature" target="weather/mars25_temperature.csv" version="3"/>
         <Item name="Hydrology"
               target="hydro/hydro_reaches.h5"
