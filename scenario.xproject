@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.8</Version>
+    <Version>3.9</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.34"/>
+        <Version variant="xAquaticRisk" number="2.39"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.9" date="2021-09-10">
+            <Change author="sascha">Updated weather to version 4 broaden future usage of scenario</Change>
+        </Version>
         <Version number="3.8" date="2021-09-03">
             <Change author="sascha">
                 Updated landscape scenario to version 1.2 (fitting metadata to Landscape Model core version 1.6.1)
