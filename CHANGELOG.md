@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-09-03
+It was automatically created on 2021-09-10
+
+## [3.9] - 2021-09-10
+### Added
+
+###Changed
+- Updated weather to version 4 broaden future usage of scenario
+
+###Fixed
+
 
 ## [3.8] - 2021-09-03
 ### Added
