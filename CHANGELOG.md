@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-09-10
+It was automatically created on 2021-09-13
+
+## [3.10] - 2021-09-13
+### Added
+
+###Changed
+- Updated landscape scenario to version 1.3
+
+###Fixed
+
 
 ## [3.9] - 2021-09-10
 ### Added
