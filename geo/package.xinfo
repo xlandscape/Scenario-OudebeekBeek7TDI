@@ -23,6 +23,11 @@
         <id column="key"/>
         <strahler_order column="strahler"/>
         <downstream column="downstream"/>
+        <bottom_width column="btmwidth" unit="m"/>
+        <bank_slope column="bankslope" unit="1"/>
+        <organic_content column="oc" unit="g/g"/>
+        <bulk_density column="dens" unit="g/cm³"/>
+        <porosity column="porosity" unit="m³/m³"/>
       </attributes>
     </hydrography>
   </supplementary_shapefiles>
