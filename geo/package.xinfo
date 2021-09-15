@@ -11,6 +11,11 @@
     <feature_type_attribute>LULCTypeId</feature_type_attribute>
     <additional_attributes>
       <reach_id>key</reach_id>
+      <PARFILE>PARF</PARFILE>
+      <METFILE>METF</METFILE>
+      <RAINFALLFILE>RAINF</RAINFALLFILE>
+      <DRAINCON>DRAINCON</DRAINCON>
+      <AREA>area_m2</AREA>
     </additional_attributes>
   </base>
   <supplementary>
