@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.10</Version>
+    <Version>3.11</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.40"/>
+        <Version variant="xAquaticRisk" number="2.46"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.11" date="2021-10-12">
+            <Change author="sascha">Changed capitalization of MARS</Change>
+        </Version>
         <Version number="3.10" date="2021-09-13">
             <Change author="sascha">Updated landscape scenario to version 1.3</Change>
         </Version>
@@ -45,7 +48,7 @@
     </Changelog>
     <Content>
         <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.3"/>
-        <Item name="Temperature" target="weather/mars_weather_101096.csv" version="4"/>
+        <Item name="Temperature" target="weather/MARS_weather_101096.csv" version="4"/>
         <Item name="Hydrology"
               target="hydro/hydro_reaches.h5"
               version="oudebeek_beek7-V-Ki-1.0-18112020"

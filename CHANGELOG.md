@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-09-13
+It was automatically created on 2021-10-12
+
+## [3.11] - 2021-10-12
+### Added
+
+###Changed
+- Changed capitalization of MARS
+
+###Fixed
+
 
 ## [3.10] - 2021-09-13
 ### Added
