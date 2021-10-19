@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.11</Version>
+    <Version>3.12</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.46"/>
+        <Version variant="xAquaticRisk" number="2.49"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.12" date="2021-10-19">
+            <Fixed author="sascha">Formatting errors in README and CHANGELOG</Fixed>
+        </Version>
         <Version number="3.11" date="2021-10-12">
             <Change author="sascha">Changed capitalization of MARS</Change>
         </Version>
