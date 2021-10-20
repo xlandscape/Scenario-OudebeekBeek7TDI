@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <landscape_package>
   <meta>
-    <version>1.3</version>
+    <version>1.4</version>
     <target_type>222</target_type>
     <habitat_types>411, 412, 422</habitat_types>
   </meta>
@@ -28,6 +28,12 @@
         <organic_content column="oc" unit="g/g"/>
         <bulk_density column="dens" unit="g/cm³"/>
         <porosity column="porosity" unit="m³/m³"/>
+        <initial_depth column="initial_de" unit="m"/>
+        <manning column="manning_n" unit="1"/>
+        <width column="width" unit="m"/>
+        <shape column="shape_1"/>
+        <sediment_layer_1_depth column="depth_sed" unit="m"/>
+        <sediment_layer_2_depth column="depth_sed_" unit="m"/>
       </attributes>
     </hydrography>
   </supplementary_shapefiles>
