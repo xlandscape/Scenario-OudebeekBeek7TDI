@@ -15,11 +15,11 @@
 ## About the project
 2 km river branch oudebeek_beek7 in the East of the Rummen catchment.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2021-10-20.
+document is from 2021-11-18.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
-* xAquaticRisk version 2.50 and higher
+* xAquaticRisk version 2.57 and higher
 
 
 ## Getting Started
@@ -34,7 +34,7 @@ from the model parameterization. For details how to reference the scenario from 
 
 ## Usage
 The scenario adds the following macros to the Landscape Model:
-* `:LandscapeScenario` (version 1.4)
+* `:LandscapeScenario` (version 1.5)
 * `:Temperature` (version 4)
 * `:Hydrology` (version oudebeek_beek7-V-Ki-1.0-18112020)
 * `:Catchment` (version oudebeek_beek7-V-Ki-1.0-18112020)
