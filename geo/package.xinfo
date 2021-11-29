@@ -15,7 +15,6 @@
       <METFILE>METF</METFILE>
       <RAINFALLFILE>RAINF</RAINFALLFILE>
       <DRAINCON>DRAINCON</DRAINCON>
-      <AREA>area_m2</AREA>
     </additional_attributes>
   </base>
   <supplementary>
