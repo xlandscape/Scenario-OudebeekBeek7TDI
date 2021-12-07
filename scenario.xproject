@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.14</Version>
+    <Version>3.15</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.57"/>
+        <Version variant="xAquaticRisk" number="2.61"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.15" date="2021-12-07">
+            <Change author="sascha">Spell checking of README</Change>
+        </Version>
         <Version number="3.14" date="2021-11-18">
             <Change author="sascha">Updated geo-package to version 1.5</Change>
         </Version>
