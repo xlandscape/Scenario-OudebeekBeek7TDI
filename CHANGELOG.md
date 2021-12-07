@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-11-18
+It was automatically created on 2021-12-07
+
+## [3.15] - 2021-12-07
+### Added
+
+###Changed
+- Spell checking of README
+
+###Fixed
+
 
 ## [3.14] - 2021-11-18
 ### Added
