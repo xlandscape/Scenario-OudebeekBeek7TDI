@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>3.15</Version>
+    <Version>3.16</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xAquaticRisk" number="2.61"/>
+        <Version variant="xAquaticRisk" number="2.62"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
     <Changelog>
+        <Version number="3.16" date="2021-12-07">
+            <Change author="sascha">Updated geo-package to version 1.6</Change>
+        </Version>
         <Version number="3.15" date="2021-12-07">
             <Change author="sascha">Spell checking of README</Change>
         </Version>
@@ -59,7 +62,7 @@
         </Version>
     </Changelog>
     <Content>
-        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.5"/>
+        <Item name="LandscapeScenario" target="geo/package.xinfo" version="1.6"/>
         <Item name="Temperature" target="weather/MARS_weather_101096.csv" version="4"/>
         <Item name="Hydrology"
               target="hydro/hydro_reaches.h5"

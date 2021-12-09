@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <landscape_package>
   <meta>
-    <version>1.5</version>
+    <version>1.6</version>
     <target_type>222</target_type>
     <habitat_types>411, 412, 422</habitat_types>
   </meta>
@@ -34,6 +34,7 @@
         <shape column="shape_1"/>
         <sediment_layer_1_depth column="depth_sed" unit="m"/>
         <sediment_layer_2_depth column="depth_sed_" unit="m"/>
+        <spray_drift_coverage column="sd_cov" unit="1"/>
       </attributes>
     </hydrography>
   </supplementary_shapefiles>
