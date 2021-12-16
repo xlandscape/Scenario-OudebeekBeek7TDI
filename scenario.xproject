@@ -75,6 +75,7 @@
         <Item name="SpeciesParameters" target="stream_com/spec.xml" version="2.0.19"/>
         <Item name="WaterTemperature" target="stream_com/temp_Kornelimuenster.txt" version="2.0.10"/>
         <Item name="Biomass" target="stream_com/biomass.txt" version="2020.11.27"/>
+        <Item name="FocusMacroData" target="FocusMacroData" version="1.0.0" />
     </Content>
     <Contacts>
         <Contact>Thorsten Schad - thorsten.schad@bayer.com</Contact>
