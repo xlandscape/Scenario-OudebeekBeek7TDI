@@ -15,7 +15,7 @@
 ## About the project
 2 km river branch oudebeek_beek7 in the East of the Rummen catchment.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2022-01-12.
+document is from 2023-03-17.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
@@ -44,6 +44,9 @@ The scenario adds the following macros to the Landscape Model:
 * `:SpeciesParameters` (version 2.0.19)
 * `:WaterTemperature` (version 2.0.10)
 * `:Biomass` (version 2020.11.27)
+
+The scenario covers a time span from `1992-01-01` to 
+`2017-12-30`.
 
 ### Roadmap
 The scenario is final and not further developed. It will be, however, updated to reflect new requirements by the 
