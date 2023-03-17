@@ -5,6 +5,10 @@
         <Version variant="xAquaticRisk" number="2.67"/>
     </SupportedRuntimeVersions>
     <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
+    <TemporalExtent>
+        <FromDate>1992-01-01</FromDate>
+        <ToDate>2017-12-30</ToDate>
+    </TemporalExtent>
     <Changelog>
         <Version number="3.17" date="2022-01-12">
             <Change author="sascha">Updated geo-package to version 1.7</Change>
