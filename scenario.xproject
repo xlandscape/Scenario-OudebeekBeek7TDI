@@ -81,9 +81,9 @@
         <Item name="Catchment" target="hydro/CatchmentList.csv" version="oudebeek_beek7-V-Ki-1.0-18112020"/>
         <Item name="TimeSeries" target="hydro/TimeSeries" version="oudebeek_beek7-V-Ki-1.0-18112020"/>
         <Item name="Map" target="stream_com/map.xml" version="2.0.1"/>
-        <Item name="SiteInformation" target="stream_com/site_niers_peutenweg.txt" version="2.0.10"/>
+        <Item name="SiteInformation" target="stream_com/site_vichtbach.txt" version="3.2.0"/>
         <Item name="SpeciesParameters" target="stream_com/spec.xml" version="2.0.19"/>
-        <Item name="WaterTemperature" target="stream_com/temp_Kornelimuenster.txt" version="2.0.10"/>
+        <Item name="WaterTemperature" target="stream_com/temp.txt" version="3.2.0"/>
         <Item name="Biomass" target="stream_com/biomass.txt" version="2020.11.27"/>
     </Content>
     <Contacts>
