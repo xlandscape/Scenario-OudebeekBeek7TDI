@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2023-03-17
+It was automatically created on 2023-07-26
+
+## [3.19] - 2023-07-26
+### Added
+- Updated StreamCom input files
+
+###Changed
+
+###Fixed
+
 
 ## [3.18] - 2023-03-17
 ### Added
