@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2023-07-26
+It was automatically created on 2023-09-11
+
+## [3.20] - 2023-09-11
+### Added
+- XML schema for scenario metadata
+
+###Changed
+
+###Fixed
+
 
 ## [3.19] - 2023-07-26
 ### Added
@@ -71,6 +80,7 @@ It was automatically created on 2023-07-26
 ###Changed
 
 ###Fixed
+- Formatting errors in README and CHANGELOG
 
 
 ## [3.11] - 2021-10-12
