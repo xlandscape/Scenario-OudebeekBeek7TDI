@@ -5,9 +5,9 @@
   xsi:schemaLocation="urn:xLandscapeModelScenarioInfo ../../model/core/base/scenario.xsd"
 >
   <Name>Oudebeek Beek 7 TDI</Name>
-  <Version>3.19</Version>
+  <Version>3.20</Version>
   <SupportedRuntimeVersions>
-    <Version variant="xAquaticRisk" number="2.67"/>
+    <Version variant="xAquaticRisk" number="2.78"/>
   </SupportedRuntimeVersions>
   <Description>2 km river branch oudebeek_beek7 in the East of the Rummen catchment.</Description>
   <TemporalExtent>
@@ -15,6 +15,9 @@
     <ToDate>2017-12-30</ToDate>
   </TemporalExtent>
   <Changelog>
+    <Version number="3.20" date="2023-09-11">
+      <Addition author="sascha">XML schema for scenario metadata</Addition>
+    </Version>
     <Version number="3.19" date="2023-07-26">
       <Addition author="sascha">Updated StreamCom input files</Addition>
     </Version>
