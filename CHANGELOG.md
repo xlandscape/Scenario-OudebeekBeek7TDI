@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2023-09-11
+It was automatically created on 2023-09-12
+
+## [3.21] - 2023-09-12
+### Added
+- Creation of repository info during documentation
+
+###Changed
+
+###Fixed
+
 
 ## [3.20] - 2023-09-11
 ### Added
