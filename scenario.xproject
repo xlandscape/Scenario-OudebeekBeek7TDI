@@ -96,6 +96,7 @@
     <Item name="SpeciesParameters" target="stream_com/spec.xml" version="3.2.0"/>
     <Item name="WaterTemperature" target="stream_com/temp.txt" version="3.2.0"/>
     <Item name="Biomass" target="stream_com/biomass.txt" version="3.2.0"/>
+	  <Item name="xDrainageRouting" target="routing/matrix_xAquatics.csv" version="0.0.1"/>  
   </Content>
   <Contacts>
     <Contact>Thorsten Schad - thorsten.schad@bayer.com</Contact>
