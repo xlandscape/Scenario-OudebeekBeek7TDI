@@ -6,7 +6,7 @@
 >
   <meta>
     <version>1.7</version>
-    <target_type>222</target_type>
+    <target_type type="list[int]">222</target_type>
     <habitat_types>411, 412, 422</habitat_types>
   </meta>
   <base>
