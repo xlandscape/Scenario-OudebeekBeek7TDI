@@ -16,7 +16,6 @@
     <additional_attributes>
       <reach_id>key</reach_id>
       <soil_type>soil</soil_type>
-      <crop_type>crop</crop_type>
     </additional_attributes>
   </base>
   <supplementary>
