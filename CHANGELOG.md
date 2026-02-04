@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2023-09-12
+It was automatically created on 2026-02-04
+
+## [3.22] - 2026-02-04
+### Added
+
+###Changed
+- Updated to current landscape scenario schema version
+
+###Fixed
+
 
 ## [3.21] - 2023-09-12
 ### Added
